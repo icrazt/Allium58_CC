@@ -1,10 +1,12 @@
 # personal keyboard build
 
-origin project: https://github.com/beekeeb/Allium58
+原始项目: https://github.com/beekeeb/Allium58
 
-config repo: https://github.com/icrazt/zmk-config
+ZMK配置: https://github.com/icrazt/zmk-config
 
+![alt text](images/image.png)
 
+![alt text](images/mix.png)
 ---
 
 # Allium58 无线键盘物料清单 (Bill of Materials) 
