@@ -1,3 +1,7 @@
-personal keyboard file
-origin: https://github.com/beekeeb/Allium58
-config: https://github.com/icrazt/zmk-config
+# personal keyboard build
+
+origin project: https://github.com/beekeeb/Allium58
+
+config repo: https://github.com/icrazt/zmk-config
+
+
